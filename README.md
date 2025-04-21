@@ -1,7 +1,7 @@
-Built a full pipeline using Python and Tableau!
-✅ Downloaded and cleaned the London Bike Sharing dataset
-✅ Created a dynamic Tableau dashboard with moving averages, heatmaps, and custom date filters
-End-to-end project from data collection to visualization! 🚲📊
+-Built a full pipeline using Python and Tableau!
+-✅ Downloaded and cleaned the London Bike Sharing dataset
+-✅ Created a dynamic Tableau dashboard with moving averages, heatmaps, and custom date filters
+-End-to-end project from data collection to visualization! 🚲📊
 
 
 ---
