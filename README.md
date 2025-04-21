@@ -1,3 +1,5 @@
+---
+
 # London Bike Sharing Dataset Analysis
 
 This project explores the **London Bike Sharing Dataset** from Kaggle and prepares it for further analysis (for tools like Tableau).
@@ -25,19 +27,6 @@ This project explores the **London Bike Sharing Dataset** from Kaggle and prepar
 ## 📂 Output
 - Final file: **london_bikes_final.xlsx**
 - Sheet name: **Data**
-
----
-
-**Extra touch (optional if you want it to look more pro):**
-You can add a **Project Structure** section, like:
-
-```text
-├── london_bikes_final.xlsx
-├── london-bike-sharing-dataset.zip
-├── london_merged.csv
-├── notebook.ipynb
-└── README.md
-```
 
 ---
 
